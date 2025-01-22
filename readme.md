@@ -47,13 +47,13 @@ This project demonstrates a user management system using Node.js and Firebase, i
     - Create a `.env` file in the root directory with the following content:
         ```env
         APP_PORT=5000
-        FIREBASE_API_KEY=AIzaSyAymW52dhq7kOXlBZlKrbgkhzHg5DeYCBA
-        FIREBASE_AUTH_DOMAIN=fir-a5d3e.firebaseapp.com
-        FIREBASE_PROJECT_ID=fir-a5d3e
-        FIREBASE_STORAGE_BUCKET=fir-a5d3e.firebasestorage.app
-        FIREBASE_MESSAGING_SENDER_ID=1022559819459
-        FIREBASE_APP_ID=1:1022559819459:web:d75d14e15582a39e907476
-        FIREBASE_MEASUREMENT_ID=G-N1F5H0B9PF
+        FIREBASE_API_KEY=
+        FIREBASE_AUTH_DOMAIN=
+        FIREBASE_PROJECT_ID=
+        FIREBASE_STORAGE_BUCKET=
+        FIREBASE_MESSAGING_SENDER_ID=
+        FIREBASE_APP_ID=
+        FIREBASE_MEASUREMENT_ID=
         ```
 
 6. Start the server:
